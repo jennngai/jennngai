@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Jenn 👋
 
-<!--
-**jennngai/jennngai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Engineer living in the Bay Area working primarily in Node.js, React, PostgreSQL/MySQL, and mongoDB. 
 
-Here are some ideas to get you started:
+Before my engineering career, I was a bean counter at Ernst and Young London, eventually transitioning into product management for B2B enterprise start-ups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've most recently been working on:
+
+HealthyBilly. A portal for seekers and employers to find each other and offer support around the hiring/seeking process.
+AtelierSystems. A Multi-module, load-balanced backend micro-service system for consumer product questions and answers.
+ProductOverview. Built customer product discovery experience within an e-commerce retail web application.
+
+Let's get in touch! ☎️
+
+LinkedIn: linkedin.com/in/jennngai
