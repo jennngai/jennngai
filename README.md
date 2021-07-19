@@ -6,7 +6,7 @@ Before my engineering career, I was a bean counter at Ernst and Young London, ev
 
 I've most recently been working on:
 
-HealthyBilly. A portal for health centric users to connect with local farmers and find organic and local groceries.
+[HealthyBilly](https://github.com/HealthyBilly/BillyHealthy). A portal for health centric users to connect with local farmers and find organic and local groceries.
 AtelierSystems. A Multi-module, load-balanced backend micro-service system for consumer product questions and answers.
 ProductOverview. Built customer product discovery experience within an e-commerce retail web application.
 
