@@ -1,6 +1,6 @@
 ### Hi there, I'm Jenn 👋
 
-I am a Full-Stack Engineer living in the Bay Area working primarily in Node.js, React, PostgreSQL/MySQL, and mongoDB. 
+I am a Full-Stack Engineer living in the Bay Area working primarily in Node.js, React, PostgreSQL/MySQL, and MongoDB. 
 
 Before my engineering career, I was a bean counter at Ernst and Young London, eventually transitioning into product management for B2B enterprise start-ups.
 
